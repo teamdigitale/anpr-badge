@@ -1,0 +1,4 @@
+.tox
+*.log
+*.py[co]
+_git
